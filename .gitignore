@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.opencode-dev.*
+*.log
+.DS_Store
